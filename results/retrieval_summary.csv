@@ -1,0 +1,3 @@
+backend,hit_rate@5,MRR@5,lowest in-scope score,highest out-of-scope score,separation (gap),suggested threshold,FAISS same as NumPy
+gemini,1.0,0.958,0.702,0.722,-0.02,overlap - see table,True
+local,0.917,0.875,0.454,0.497,-0.043,overlap - see table,True

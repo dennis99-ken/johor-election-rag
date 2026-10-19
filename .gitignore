@@ -1,0 +1,6 @@
+# Scraped article text (The Star's content) and the search index are rebuilt by the scripts
+data/
+# Secrets
+.env
+__pycache__/
+.ipynb_checkpoints/

@@ -1,0 +1,41 @@
+# Project B: The Star articles on the 16th Johor state election (2026)
+# One link per line; lines starting with # are ignored by the scraper.
+
+# --- Nominations (26-30 June)
+https://www.thestar.com.my/news/nation/2026/06/26/16th-johor-state-polls-swing-into-full-gear-tomorrow-with-nomination-day
+https://www.thestar.com.my/news/nation/2026/06/27/johor-polls-all-56-nomination-centres-close-at-10am
+https://www.thestar.com.my/news/nation/2026/06/27/johor-polls-five-cornered-fight-shapes-up-in-puteri-wangsa
+https://www.thestar.com.my/news/nation/2026/06/30/seven-police-reports-related-to-polls-lodged-since-nomination
+
+# --- Campaign and issues (4-10 July)
+# Removed: opinion column, and only an 88-word preview was available (likely a premium article).
+# Delete the # at the start of the next line to include it again.
+# https://www.thestar.com.my/opinion/columnists/2026/07/04/jitters-all-round-in-johor
+https://www.thestar.com.my/news/nation/2026/07/06/vote-chase-intensifies
+https://www.thestar.com.my/news/nation/2026/07/06/johor-polls-floods-causeway-jams-top-agenda-for-pakatan039s-greater-jb-candidates
+https://www.thestar.com.my/news/nation/2026/07/06/johor-polls-political-differences-wont-hinder-state-federal-ties-says-onn-hafiz
+https://www.thestar.com.my/news/nation/2026/07/10/johor-polls-orderly-race-to-polling-day
+
+# --- Early voting (7 July)
+https://www.thestar.com.my/news/nation/2026/07/07/johor-polls-early-voter-turnout-at-9449pc-says-ec
+https://www.thestar.com.my/news/nation/2026/07/07/johor-polls-early-voting-concludes-at-all-62-centres
+
+# --- Polling day (11 July)
+https://www.thestar.com.my/news/nation/2026/07/11/johor-polls-maszlee-malik-casts-vote-in-simpang-renggam-urges-high-voter-turnout
+https://www.thestar.com.my/news/nation/2026/07/11/johor-polls-mcmc-received-29-complaints-during-campaign-period
+
+# --- Results (11-12 July)
+https://www.thestar.com.my/news/nation/2026/07/11/johor-polls-bn-has-won-over-40-seats-says-zahid
+https://www.thestar.com.my/news/nation/2026/07/11/interactive-official-results-for-the-johor-polls-live-updates
+https://www.thestar.com.my/news/nation/2026/07/12/interactive-explore-the-johor-poll-results-here
+https://www.thestar.com.my/news/nation/2026/07/11/johor-polls-pakatan-suffers-crushing-defeat
+https://www.thestar.com.my/news/nation/2026/07/11/johor-polls-bersatu-to-study-reasons-behind-poor-showing
+https://www.thestar.com.my/news/nation/2026/07/11/johor-polls-onn-hafiz-pledges-to-work-for-the-people-following-bn039s-landslide-win
+https://www.thestar.com.my/news/nation/2026/07/11/johor-polls-pakatan-to-continue-serving-johor-despite-poll-outcome-says-anwar
+
+# --- Aftermath (12-15 July)
+https://www.thestar.com.my/news/nation/2026/07/12/onn-hafiz-sworn-in-as-johor-mentri-besar
+https://www.thestar.com.my/news/nation/2026/07/12/ahmad-zahid-congratulates-onn-hafiz-on-appointment-as-johor-mb
+https://www.thestar.com.my/news/nation/2026/07/12/major-setback-for-pakatan
+https://www.thestar.com.my/news/nation/2026/07/13/barisan-reps-urged-to-stay-humble
+https://www.thestar.com.my/news/nation/2026/07/15/johor-polls-decline-in-malay-voter-support-among-key-reasons-for-pakatan039s-loss-says-amirudin

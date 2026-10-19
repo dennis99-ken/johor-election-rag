@@ -1,0 +1,39 @@
+backend,kind,question,top_score,correct_in_top5,rank_of_correct,top_article
+gemini,in-scope,How many seats did Barisan Nasional win in the 2026 Johor state election?,0.792,True,1.0,"Johor polls: BN has won over 40 seats, says Zahid"
+gemini,in-scope,When was nomination day for the Johor polls?,0.756,True,1.0,Johor polls: All 56 nomination centres close at 10am
+gemini,in-scope,What issues did Pakatan Harapan candidates in Johor Baru focus on?,0.78,True,1.0,"Johor polls: Floods, Causeway jams top agenda for Pakatan's "
+gemini,in-scope,What was the turnout for early voting?,0.702,True,1.0,"Johor polls: Early voter turnout at 94.49pc, says EC"
+gemini,in-scope,Who are the candidates contesting Puteri Wangsa?,0.752,True,1.0,Johor polls: Five-cornered fight shapes up in Puteri Wangsa
+gemini,in-scope,Why did Pakatan Harapan perform poorly in the Johor election?,0.77,True,1.0,Major setback for Pakatan
+gemini,in-scope,Who was sworn in as Johor Mentri Besar after the election?,0.757,True,1.0,Onn Hafiz sworn in as Johor Mentri Besar
+gemini,in-scope,How many complaints did MCMC receive about online content during the campaign?,0.762,True,1.0,Johor polls: MCMC received 29 complaints during campaign per
+gemini,in-scope,How many police reports were lodged after nomination day?,0.768,True,1.0,Seven police reports related to polls lodged since nominatio
+gemini,in-scope,What did Anwar Ibrahim say after the Johor election results?,0.766,True,2.0,Major setback for Pakatan
+gemini,in-scope,What did Onn Hafiz say about state and federal government relations during the campaign?,0.768,True,1.0,Johor polls: Political differences won’t hinder state-federa
+gemini,in-scope,How many candidates lost their election deposits?,0.734,True,1.0,Barisan reps urged to stay humble
+gemini,out-of-scope,Who won the Melaka state election?,0.701,,,INTERACTIVE: Explore the Johor poll results here
+gemini,out-of-scope,What happened in the Negeri Sembilan state election?,0.722,,,Johor polls: Decline in Malay voter support among key reason
+gemini,out-of-scope,What is the latest Bursa Malaysia stock market index?,0.593,,,Barisan reps urged to stay humble
+gemini,out-of-scope,Who won the latest Malaysia Cup football final?,0.609,,,Ahmad Zahid congratulates Onn Hafiz on appointment as Johor 
+gemini,out-of-scope,What is the weather forecast for Kuala Lumpur tomorrow?,0.59,,,Vote chase intensifies
+gemini,edge,Who won the seat in Pulai?,0.698,,,Barisan reps urged to stay humble
+gemini,edge,How many seats did Barisan Nasional win in the 2022 Johor election?,0.754,,,INTERACTIVE: Explore the Johor poll results here
+local,in-scope,How many seats did Barisan Nasional win in the 2026 Johor state election?,0.826,True,1.0,"Johor polls: BN has won over 40 seats, says Zahid"
+local,in-scope,When was nomination day for the Johor polls?,0.768,True,1.0,16th Johor State Polls swing into full gear tomorrow with No
+local,in-scope,What issues did Pakatan Harapan candidates in Johor Baru focus on?,0.693,False,,Johor polls: Decline in Malay voter support among key reason
+local,in-scope,What was the turnout for early voting?,0.567,True,1.0,Johor polls: Early voting concludes at all 62 centres
+local,in-scope,Who are the candidates contesting Puteri Wangsa?,0.708,True,1.0,Johor polls: Five-cornered fight shapes up in Puteri Wangsa
+local,in-scope,Why did Pakatan Harapan perform poorly in the Johor election?,0.746,True,1.0,Johor polls: Decline in Malay voter support among key reason
+local,in-scope,Who was sworn in as Johor Mentri Besar after the election?,0.766,True,1.0,Onn Hafiz sworn in as Johor Mentri Besar
+local,in-scope,How many complaints did MCMC receive about online content during the campaign?,0.529,True,1.0,Johor polls: MCMC received 29 complaints during campaign per
+local,in-scope,How many police reports were lodged after nomination day?,0.554,True,1.0,Seven police reports related to polls lodged since nominatio
+local,in-scope,What did Anwar Ibrahim say after the Johor election results?,0.691,True,1.0,Johor polls: Pakatan to continue serving Johor despite poll 
+local,in-scope,What did Onn Hafiz say about state and federal government relations during the campaign?,0.575,True,1.0,Johor polls: Political differences won’t hinder state-federa
+local,in-scope,How many candidates lost their election deposits?,0.454,True,2.0,Vote chase intensifies
+local,out-of-scope,Who won the Melaka state election?,0.481,,,INTERACTIVE: Explore the Johor poll results here
+local,out-of-scope,What happened in the Negeri Sembilan state election?,0.497,,,Johor polls: Pakatan suffers crushing defeat
+local,out-of-scope,What is the latest Bursa Malaysia stock market index?,0.388,,,16th Johor State Polls swing into full gear tomorrow with No
+local,out-of-scope,Who won the latest Malaysia Cup football final?,0.477,,,Johor polls: Bersatu to study reasons behind poor showing
+local,out-of-scope,What is the weather forecast for Kuala Lumpur tomorrow?,0.362,,,16th Johor State Polls swing into full gear tomorrow with No
+local,edge,Who won the seat in Pulai?,0.437,,,Johor polls: Bersatu to study reasons behind poor showing
+local,edge,How many seats did Barisan Nasional win in the 2022 Johor election?,0.825,,,"Johor polls: BN has won over 40 seats, says Zahid"
